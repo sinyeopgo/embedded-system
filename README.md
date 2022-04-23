@@ -1,4 +1,4 @@
 # capstone-design
 beginner_tutorials -> mediapipe,ros,TTS
-![Screenshot from 2022-04-23 14-47-15](https://user-images.githubusercontent.com/94602114/164880864-5a207518-6244-4b0e-851b-3c6918ea873f.png)
+![스크린샷, 2022-04-23 15-04-42](https://user-images.githubusercontent.com/94602114/164882341-847f96de-e4c1-4ba7-a3ac-af3fd4088020.png)
 [출처] https://github.com/kairess/Rock-Paper-Scissors-Machine
