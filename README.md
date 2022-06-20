@@ -18,3 +18,6 @@
 # 노드레드/UI
 ![스크린샷, 2022-06-20 15-18-51](https://user-images.githubusercontent.com/94602114/174538006-51b3674b-56d3-46c3-860d-c812c0d42c38.png)
 ![스크린샷, 2022-06-20 15-27-14](https://user-images.githubusercontent.com/94602114/174538664-649d6ef6-97a9-455b-9125-b438ebc5cbeb.png)
+
+# 구동영상  
+https://youtu.be/mPpECCze8Eo
